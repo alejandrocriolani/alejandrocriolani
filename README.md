@@ -3,9 +3,6 @@
 <p>
 Soy un desarrolador web fullstack con mas de 4 años de experiencia en las tecnologías .NET y Angular
 </p>
-<p>
-Me apasiona crear aplicaciones web innovadoras y atractivas que satisfagan las necesidades de mis clientes. Tengo un fuerte dominio de las últimas tendencias tecnológicas y estoy siempre aprendiendo cosas nuevas.
-</p>
 
 - Empleado en ElipsysIT desde 2019
 - Ubicación: Rosario, Santa Fe, Argentina
